@@ -1,0 +1,6 @@
+.container,#container{
+    background-image: url(../images/grey-square-pattern-background-vector-illustration_1164-1350.jpg);
+    border-style: solid;
+    border-color: grey;
+    margin-bottom: 5px;
+}

@@ -6,13 +6,13 @@ var questions = [
     },
     {
         title: "What does === operator do ?",
-        choices:["equates two data types based on value and type", "equates two data types nased on value","makes a tunnel for code to escape","Error it doesnt exist"],
-        answer: "equates two data types based on value and type"
+        choices:["Equates two data types based on value and type", "Equates two data types nased on value","Makes a tunnel for code to escape","Error it doesnt exist"],
+        answer: "Equates two data types based on value and type"
     },
     {
-        title:" which are the correct pop up boxes available in javascript",
-        Choices:["alert, confirm, prompt","alert,prompt,confirm,banner","alert,prompt","alert"],
-        answer: "alert, confrim, prompt"
+        title:"Which are the correct pop up boxes available in javascript ?",
+        choices:["alert, confirm, prompt","alert,prompt,confirm,banner","alert,prompt","alert"],
+        answer: "alert, confirm, prompt"
     },
     {
         title:"In which html element do we store our javascript ?",
@@ -20,12 +20,12 @@ var questions = [
         answer: "<script></script>"
     },
     {
-        title:"What is the correct syntax for referring to an external script called script.js",
+        title:"What is the correct syntax for referring to an external script called script.js ?",
         choices:["<script = script.js>","<script href='script.js>","<javascript src='script.js'", "<script src='script.js'>"],
         answer:"<script src='script.js'>"
     },
     {
-        title: "how do you write the statement 'if x equals to 5, alert x is at 5' in javascript",
+        title: "How do you write the statement 'if x equals to 5, alert x is at 5' in javascript ?",
         choices:["if (x=5){alert('x is at 5')", "if x=5: alert ! x is at 5!", "if (x=5){alert('x is at 5')}","(if x=5){alert('x is at 5')}"],
         answer: "if (x=5){alert('x is at 5')}"
     }
