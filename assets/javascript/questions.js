@@ -1,7 +1,7 @@
 // file will hold the question arrays
 var questions = [
     { title: "Arrays can hold the following data types:",
-      choices: ["Strings", "Numbes","Booleans","All of the above"],
+      choices: ["Strings", "Numbers","Booleans","All of the above"],
       answer: "All of the above"
     },
     {
